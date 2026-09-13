@@ -1,0 +1,5 @@
+coqui-tts==0.27.5
+huggingface_hub>=0.34.0
+gradio>=5.44.0
+requests>=2.32.0
+soundfile>=0.13.0
